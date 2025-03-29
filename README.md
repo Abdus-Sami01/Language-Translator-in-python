@@ -12,7 +12,7 @@ This project is a **simple language translator** built using **Google Translate 
 
 1. **Clone the repository:**
 ```sh
-git clone https://github.com/your-repo-link/language-translator.git
+git clone https://github.com/Abdus-Sami01/Language-Translator-in-python.git
 cd language-translator
 ```
 
@@ -40,7 +40,7 @@ uvicorn main:app --reload
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
-📌 **Repository Link:** [GitHub](https://github.com/your-repo-link/language-translator)
+📌 **Repository Link:** [GitHub](https://github.com/Abdus-Sami01/Language-Translator-in-python.git)
 
 ---
 🔹 **Author:** [Abdus-Sami01](https://github.com/Abdus-Sami01)
